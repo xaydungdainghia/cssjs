@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/FrcrMe' target='_blank'><img src='https://1.bp.blogspot.com/-RlE0mtXfJdc/WPtBZq0hheI/AAAAAAAAAW4/_fp1wDCCOP02XcFrL03soSwOFTpmN85ggCLcB/s640/Untitled-2.jpg' width='500px'/><br/>quảng cáo bảng hiệu thành phô</a>. Học tại1 hồ chí minh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/FrcrMe' target='_blank'><img src='https://1.bp.blogspot.com/-RlE0mtXfJdc/WPtBZq0hheI/AAAAAAAAAW4/_fp1wDCCOP02XcFrL03soSwOFTpmN85ggCLcB/s640/Untitled-2.jpg' width='500px'/><br/>bảng hiệu quảng cáo</a>.tại thành phố hồ chí minh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
