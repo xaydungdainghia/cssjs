@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//website http://quangcaodainghia.com or http://quangcaodainghia.blogspot.com
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://imageshack.com/a/img922/4904/NExWRF.jpg' width='500px'/><br/>công ty đại nghĩa</a>. Thi Công Quảng Cáo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/FrcrMe' target='_blank'><img src='http://imageshack.com/a/img922/4904/NExWRF.jpg' width='500px'/><br/>bảng hiệu quảng cáo</a>.tại thành phố hồ chí minh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
